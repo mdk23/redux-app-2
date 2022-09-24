@@ -62,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployed
-acess the the via: [redux-app-2.netlify.app]
+acess the the via: [https://redux-app-2.netlify.app](https://redux-app-2.netlify.app)
 
 #### Imagens
 
